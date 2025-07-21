@@ -26,3 +26,4 @@ The program consists of two main classes:
 The input file should contain:
 1. First line: any header line (ignored in current implementation)
 2. Second line: graph edges in the format "1 2 2 3 3 4" etc.
+This means that 1 vertice is neighbor with 2, 2 with 3, 3 with 4, and etc.
